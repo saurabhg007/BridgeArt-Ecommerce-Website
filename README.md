@@ -7,7 +7,8 @@ Additionally, the website may offer features like virtual galleries, artist prof
 <h3>Technologies Used:</h3>
  1. HTML<br>
  2. CSS <br>
- 3. PHP<br><hr style="height:1px;border-width:0;color:gray;background-color:gray">
+ 3. Javascript <br>
+ 4. PHP<br><hr style="height:1px;border-width:0;color:gray;background-color:gray">
  <h3> For Reference:</h3> 
  <a href="https://youtu.be/xfhkGa4GiGs?si=6r6NBsM7grXxF6rC" target="_blank">Click Here!</a>
  
