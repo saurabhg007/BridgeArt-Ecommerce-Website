@@ -1,6 +1,6 @@
 # BridgeArt-Ecommerce-Website
 Second Year MCA - Miniproject <br>
-The BridgweArt Ecommerce  website project aims to create a user-friendly online platform for customers to order Mobile, Electronic Device, Accessories and related products.
+The BridgeArt Ecommerce  website project aims to create a user-friendly online platform for customers to order Mobile, Electronic Device, Accessories and related products.
 It will feature an intuitive interface with menu options, customization tools, secure payment methods.
 The website will offer both delivery and pickup options and may include special promotions or loyalty programs to enhance customer engagement and satisfaction.<hr>
 <h3>Technologies Used:</h3>
